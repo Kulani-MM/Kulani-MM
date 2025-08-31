@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Kulani</h1>
 <h3 align="center">Aspiring Software Engineer from Johannesburg, South Africa</h3>
 
+<p align="center">📊➡️🐞 Former accountant turned coder — I swapped balance sheets for debugs 😅</p>
+
+
 ---
 
 ### ✨ About Me
@@ -8,6 +11,7 @@
 - 🌱 Currently learning **Java, Spring Boot, Docker**
 - 🎬 Building real-world projects like movie pickers & weather dashboards
 - 💡 Passionate about solving problems & turning ideas into apps
+
 
 ---
 
