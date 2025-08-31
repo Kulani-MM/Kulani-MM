@@ -42,7 +42,7 @@
 
 ### 🌍 Connect With Me  
 <p align="left">
-  <a href="https://www.linkedin.com/in/kulani-manganyi/">
+  <a href="https://www.linkedin.com/in/kulani-mj/">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/Kulani-MM">
