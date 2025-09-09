@@ -14,6 +14,9 @@
 
 
 ---
+## Achievements
+- **1st Place** in [Momentum’s Women in Sports Hackathon] - [02 September 2025]
+- **2nd Place** in  [Mukuru x WeThinkCode_ SheHacks Hackathon] - [28-29 August 2025]
 
 ### 🚀 Featured Projects  
 - 🎬 [**Mzansi Movie Roulette**](https://kulani-mm.github.io/Movie-Roulette/) – Random movie picker with ratings & trailers  
